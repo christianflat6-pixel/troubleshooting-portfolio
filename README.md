@@ -1,2 +1,2 @@
 # troubleshooting-portfolio
-A portfolio of hands-on IT support and network troubleshooting write-ups by Christian Boakoh: symptoms, steps taken, root cause, fix and prevention.
+Hi, I’m Christian Boakoh, an IT support professional from Accra, Ghana, with experience in helpdesk support, hardware repair and basic networking. This repository contains write-ups of real problems I have solved. Each one explains the symptoms, what I did, the root cause and how to prevent it from happening again.
